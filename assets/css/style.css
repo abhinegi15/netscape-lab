@@ -415,7 +415,7 @@ footer p.copy {
 }
 
 
-/* services sec  */
+/* services sec  */ 
 
 .slider.services-slider {
     overflow-y: hidden;
@@ -448,5 +448,8 @@ footer p.copy {
 
    .slider.services-slider {
     overflow-y: hidden;
-    box-shadow: inset 0px 39px 62px -50px #6c757d;
+    /* box-shadow: inset 0px 39px 62px -50px #6c757d; */
 }
+
+
+
